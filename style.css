@@ -1,28 +1,27 @@
-.container{
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    height: 500px;
-    width: 500px;
-    padding: 25px;
+.container {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	height: 500px;
+	width: 500px;
+	padding: 25px;
 }
 
-.code{
-    width: 200px;
-    height: 200px;
-    border-radius: 10px;
+.code {
+	width: 200px;
+	height: 200px;
+	border-radius: 10px;
 }
 
-.button{
-    display: flex;
-    width: 100px;
-    height: 100px;
-    padding: 25px;
-    
+.button {
+	display: flex;
+	width: 100px;
+	height: 100px;
+	padding: 25px;
 }
 
-.qrCode1{
-    width: 100px;
-    height: 100px;
-    padding: 10px;
+.qrCode1 {
+	width: 100px;
+	height: 100px;
+	padding: 10px;
 }
